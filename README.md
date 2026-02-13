@@ -8,7 +8,7 @@ Este repositorio será vuestro **Kit de Herramientas** para aprender a contar hi
 
 ### 📚 Apuntes y teoría
 
-La carpeta ["apuntes"](./apuntes) es tu **laboratorio creativo**. Aquí encontrarás documentos que te enseñarán:
+La carpeta apuntes es tu **laboratorio creativo**. Aquí encontrarás documentos que te enseñarán:
 
 - Qué es Data Storytelling
 - Principios de comunicación visual
@@ -21,13 +21,13 @@ La carpeta ["apuntes"](./apuntes) es tu **laboratorio creativo**. Aquí encontra
 
 ###  🔧 Recursos 
 
-La carpeta ["recursos"](./recursos) es tu **caja de trucos**: iconos, plantillas, imágenes y otros materiales para que tus historias sean **visiblemente irresistibles**.
+La carpeta Recuros tu **caja de trucos**: iconos, plantillas, imágenes y otros materiales para que tus historias sean **visiblemente irresistibles**.
 > *Tip: ¡Un buen recurso puede transformar un gráfico aburrido en una historia que todos recuerden!* 
 
 ---
 
 ### 📊 Prácticas 
-La carpeta ["practica-storytelling"](/.practica-storytelling) es tu **escenario de acción**: 
+La carpeta practica-storytelling es tu **escenario de acción**: 
 
 - Dataset
 - Documento Guía
