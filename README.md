@@ -19,7 +19,7 @@ La carpeta ["apuntes"](./apuntes) es tu **laboratorio creativo**. Aquí encontra
 
 ---
 
-###  Recursos 
+###  🔧 Recursos 
 
 La carpeta ["recursos"](./recursos) es tu **caja de trucos**: iconos, plantillas, imágenes y otros materiales para que tus historias sean **visiblemente irresistibles**.
 > *Tip: ¡Un buen recurso puede transformar un gráfico aburrido en una historia que todos recuerden!* 
