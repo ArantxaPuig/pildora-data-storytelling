@@ -11,6 +11,6 @@ En esta carpeta encontrarás ejercicios prácticos de análisis de datos y story
 
 #### Actividades
 1. Limpiar, ordenar y preparar el data set ☑️
-2. Visualizar tendenias y patrones en las ventas
+2. Visualizar tendencias y patrones en las ventas
 3. Construir su propio **Data Storytelling** usando gráficos y narrativa
 4. Presentar Insights y conclusiones de forma clara y visual
